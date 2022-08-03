@@ -9,5 +9,5 @@ Technical specifications:
 - W5500 ethernet controller with SPI interface;
 - main MCU STM32F103C8T6TR.
 
-![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/homekit3.JPG)
+![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/homekit3.jpg)
 ![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/homekit2.JPG)
