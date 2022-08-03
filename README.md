@@ -1,2 +1,2 @@
 # MeteoStation
-The meteostation module for the smart home project.
+The PCB of a meteostation module for the smart home project.
