@@ -1,0 +1,19 @@
+DRC Rules Export File for PCB: D:\MeteoStation\PCB\MeteoStation.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_InputPower_3|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_OutputChulck|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit_ANALOG|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_tracks_inner|Scope=Board|Minimum=13.78
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=5Â|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.98
+RuleKind=Width|RuleName=24Â|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=3,3Â|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=AnnularRing_via|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_InputPower|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_InputChulck|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_InputChulck_2|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_InputChulck_3|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_InputPower_1|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_InputPower_2|Scope=Board|Minimum=11.81

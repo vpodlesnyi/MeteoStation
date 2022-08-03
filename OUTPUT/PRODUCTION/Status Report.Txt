@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MeteoStation.PcbDoc]
+   Generated File[MeteoStation.TXT]
+   Generated File[MeteoStation.LDP]
+   Generated File[MeteoStation.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 4:17:59 PM On 8/3/2022

@@ -1,0 +1,280 @@
+*************************************************************
+FileName = MeteoStation.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : MeteoStation.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D58
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Power Layer
+      File : MeteoStation.G1
+
+    Adding Layer      : Power Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D86
+    D91
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MeteoStation.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Ground Layer
+      File : MeteoStation.G2
+
+    Adding Layer      : Ground Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D81
+    D82
+    D85
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Signal Layer
+      File : MeteoStation.GTL
+
+    Adding Layer      : Top Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D44
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MeteoStation.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D27
+    D28
+    D32
+    D33
+    D34
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MeteoStation.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MeteoStation.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Signal Layer
+      File : MeteoStation.GBL
+
+    Adding Layer      : Bottom Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D44
+    D55
+    D56
+    D59
+    D60
+    D61
+    D62
+    D64
+    D65
+    D68
+    D69
+    D73
+    D74
+    D75
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
